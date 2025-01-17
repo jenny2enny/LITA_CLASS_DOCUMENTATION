@@ -23,12 +23,28 @@ Here are keys to create and use a PivotTable:
 
 3. **Set Up Your PivotTable:**
 - Once the PivotTable Field List appears, you can drag and drop fields into four areas:
-- **Filters:** To filter data based on specific criteria.
+- **Filters:** To filter data based on spec
+  ific criteria.
 - **Columns:** TO display data in conlumns for comparisom.
 - **Rows:** To  display data in rows.
 - **Values:** To summarize data , such as by counting or summing.
 
-  **WORKING WITH A PIVOT TABLE** 
+  **WORKING WITH A PIVOT TABLE**
+1. **Ajusting Fields:**
+-You can modifynthenarrangement by dragging fields in and out of different areas to adjust the view according to your needs.
+
+2. **Summarizinng Values:**
+- In the value area, click on the drop-down of any field to change the summary calculation (Sum, Count, Average, etc.) by selecting **Value Field Settings**.
+
+3. **Refreshing the PivotTable:**
+- If your source data changes, right-click on the PivotTable and select **Refresh** to update the results.
+
+4. **Formatting the PivotTable:**
+- Use the **Design** tab under PivotTable Tool to change the style and format of the PivotTable for better presentation.
+
+5. **Using Slicer:**
+- For easier filtering, you can add slicers (found under the **Analze** tab) to provide a user-friendly way to filter your data quickly. 
+ 
     
 
 
