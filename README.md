@@ -2,7 +2,7 @@
 
 This is where I documented my first project while learning Data analysis with the Incubator  Hub.
 
-**Project Title** :Microsoft Excel for Data Cleaning, Analysis and VIsualization.[Download Here](https://www.microsoft.com
+**Project Title** :Microsoft Excel for Data Cleaning, Analysis and VIsualization.[Download Here](https://www.microsoft.com)
 
 **Analysis Tool:** Pivot Table in Microsoft Excel.
 
@@ -62,7 +62,7 @@ Grand Total	74,031,990,280
 	
 ![image](https://github.com/user-attachments/assets/068ac6f4-c750-4b8b-8d9e-414806cb0b86)
 
-Here in this data North East is the region with the highest revenue while North CentrL is the region with the lowest revenue.
+Here in this data North East is the region with the highest revenue while North Centrol is the region with the lowest revenue.
 
 
 						
@@ -95,7 +95,7 @@ The summary of **Average Revanue by Average Unit Sold**
 
 Row Labels	Average of Revenue 	Average of Units Sold 
 Copier Sale	3341321	9.87
-Parts	544423	35.54
+Parts	         544423	35.54
 Printer Sale	2632156	5.56
 Service Plan	4201076	20.88
 Grand Total	2371245.50	25.54
@@ -104,27 +104,18 @@ Grand Total	2371245.50	25.54
 
 					
 					
+								
 					
 					
-					
-					
-					
-					
-					
-					
-					
-					
-					
-					
-				Row Labels	Average of Units Sold 
+
+Row Labels	Average of Units Sold 
 				Copier Sale	9.87
 				Parts	        35.54
 				Printer Sale	5.56
 				Service Plan	20.88
 				Grand Total	25.54
-					
-					
-					
+
+     
 					
 ![image](https://github.com/user-attachments/assets/47718c47-81de-4737-81b4-5bacc4857616)
 
