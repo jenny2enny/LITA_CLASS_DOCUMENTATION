@@ -61,5 +61,11 @@ South West	16,877,529,040
 Grand Total	74,031,990,280
 	
 ![image](https://github.com/user-attachments/assets/068ac6f4-c750-4b8b-8d9e-414806cb0b86)
-Here in this data North East is the region with the highest revenue.
+
+Here in this data North East is the region with the highest revenue while North CentrL is the region with the lowest revenue.
+
+
+						
+![image](https://github.com/user-attachments/assets/4e6f884e-90bf-431e-85fb-0293d119a384)
+
  
