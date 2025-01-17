@@ -4,7 +4,7 @@ This is where I documented my first project while learning Data analysis with th
 
 **Project Title** :Microsoft Excel for Data Cleaning, Analysis and VIsualization.[Download Here](https://www.microsoft.com
 
-**T00l:** Pivot Table in Microsoft Excel.
+**Analysis Tool:** Pivot Table in Microsoft Excel.
 
 A PivotTable in Microsoft Excel is a power tool for summarizing, analizing, exploring, and presenting large amount of data.
 
@@ -28,7 +28,7 @@ Here are keys to create and use a PivotTable:
 - **Rows:** To  display data in rows.
 - **Values:** To summarize data , such as by counting or summing.
 
-  **WORKING WITH A PIVOT TABLE**
+  **WORKING WITH A PIVOT TABLE** 
     
 
 
