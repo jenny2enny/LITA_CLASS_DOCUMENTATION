@@ -45,6 +45,21 @@ Here are keys to create and use a PivotTable:
 5. **Using Slicer:**
 - For easier filtering, you can add slicers (found under the **Analze** tab) to provide a user-friendly way to filter your data quickly. 
  
-    
+     
+***USING A SALES DATA OF FEDEREAL CAPITAL TERRITORY:***
+Sales data table  with columns for "Region", " Market", "Store",  "Trade Date and Fiscal period", "Model", "Line of Business", "Day Category", "Revenue", "Units Sold".
 
 
+REGION BY REVENUE	
+Row Labels	Sum of Revenue 
+North Central	6,489,332,640
+North East	18,641,963,520
+North West	9,386,346,720
+South East	10,457,403,240
+South South	12,179,415,120
+South West	16,877,529,040
+Grand Total	74,031,990,280
+	
+![image](https://github.com/user-attachments/assets/068ac6f4-c750-4b8b-8d9e-414806cb0b86)
+Here in this data North East is the region with the highest revenue.
+ 
