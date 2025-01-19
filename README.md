@@ -91,7 +91,7 @@ Grand Total     786,678.00.
 ![image](https://github.com/user-attachments/assets/957863f9-ade7-4b78-a192-daaa953cdbe7)
 
 
-At the end of the trading year, South West sold 169,730 units of their products, following by South South which were able to sale 126,189 units , putting South South in the second place ,while North Central has the least sale of the trading year.
+At the end of the trading year, South West sold 169,730 units of their products, following by South South which were able to sale 126,189 units , putting South South in the second place ,while North Central has the least sales of the trading year.
 
 
 
@@ -130,6 +130,7 @@ Grand Total	11,855,576,080
 
 ![image](https://github.com/user-attachments/assets/d8401e8c-9018-4cdf-866e-fe0084ea6853)
 
+![image](https://github.com/user-attachments/assets/b951a464-477b-4f71-a063-13a612b63a7d)
 
 
 
