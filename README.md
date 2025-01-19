@@ -75,7 +75,7 @@ Here in this data North East is the region with the highest revenue while North 
 
 **2.THE SUMMARY OF THE UNIT SOLD BY EACH REGION** 
 
-Row Labels	Sum of Units Sold 
+Row Labels	Sum of Unit Sold 
 North Central	54522, 
 North East	208983,
 North West	105014,
@@ -91,13 +91,13 @@ Grand Total     786,678.00.
 ![image](https://github.com/user-attachments/assets/957863f9-ade7-4b78-a192-daaa953cdbe7)
 
 
-At the end of the trading year, South West sold 169,730 units of their products, following by South South which were able to sale 126,189 units , putting South South in the second place ,while North Central has the least sales of the trading year.
+At the end of the trading year, South West sold 169,730 unit of their products, following by South South which were able to sale 126,189 unit, putting South South in the second place ,while North Central has the least sales of the trading year.
 
 
 
 **3.THE SUMMARRY OF AVERAGE REVENUE BY AVERAGE UNITS SOLD**
 
-Row Labels	Average of Revenue 	Average of Units Sold 
+Row Labels	Average of Revenue 	Average of Unit Sold 
 Copier Sale	3341321	9.87
 Parts	         544423	35.54
 Printer Sale	2632156	5.56
