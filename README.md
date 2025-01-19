@@ -73,7 +73,7 @@ Here in this data North East is the region with the highest revenue while North 
 
 	
 
-**2.** The summary of the **unit sold** by each **region** 
+**2.THE SUMMARY OF THE UNIT SOLD BY EACH REGION** 
 
 Row Labels	Sum of Units Sold 
 North Central	54522, 
@@ -95,7 +95,7 @@ At the end of the trading year, South West sold 169,730 units of their products,
 
 
 
-**3.** The summary of **Average Revanue by Average Unit Sold**
+**3.THE SUMMARRY OF AVERAGE REVENUE BY AVERAGE UNITS SOLD**
 
 Row Labels	Average of Revenue 	Average of Units Sold 
 Copier Sale	3341321	9.87
@@ -103,34 +103,19 @@ Parts	         544423	35.54
 Printer Sale	2632156	5.56
 Service Plan	4201076	20.88
 Grand Total	2371245.50	25.54
+
+
 ![image](https://github.com/user-attachments/assets/2dfca69c-7471-4f89-b4e5-c452f161a796)
 
 
 					
 					
-								
 					
-					
-
-Row Labels
-
-Average of Units Sold 
-Copier Sale	9.87
-Parts	        35.54
-Printer Sale	5.56
-Service Plan	20.88
-Grand Total	25.54
-
-     
-					
-![image](https://github.com/user-attachments/assets/47718c47-81de-4737-81b4-5bacc4857616)
-
-
-
 
 	
-TOP 10 STORES BY REVENUE	
- 	Sum of Revenue 
+**4.TOP 10 STORES BY REVENUE**
+
+Sum of Revenue 
 Ankpa	1,713,355,320
 Ajaokuta	1,424,925,840
 Arochukwu	1,395,110,160
@@ -142,30 +127,36 @@ Ado-Odo/Ota	1,013,133,840
 Dukku	965,132,760
 Bauchi	940,605,840
 Grand Total	11,855,576,080
+
 ![image](https://github.com/user-attachments/assets/d8401e8c-9018-4cdf-866e-fe0084ea6853)
 
 
 
 
-TOP 5 MARKET BY REVENUE	
- 	Sum of Revenue 
+**5. TOP 5 MARKET BY REVENUE**
+
+Sum of Revenue 
 Ekiti	5,574,169,800
 Abia	5,003,724,120
 Bayelsa	4,239,833,280
 Akwa Ibom	4,101,650,880
 Kogi	3,841,569,720
 Grand Total	22,760,947,800
+
 ![image](https://github.com/user-attachments/assets/ba94edb1-d806-4f6d-bee0-e8c697f2edb5)
 
 
 
 
- Line of businee	Sum of Revenue 	percentage revenue
+**6. LINE OF BUSINESS**
+
+Sum of Revenue 	percentage revenue
 Copier Sale	7.54bn	10.33%
 Parts	        7.56bn	10.36%
 Printer Sale	6.06bn	8.29%
 Service Plan	51.87bn	71.02%
 Grand Total	73.03bn	100.00%
+
 ![image](https://github.com/user-attachments/assets/dffcdf94-fb39-4c53-8987-c60d99b835cb)
 
 
