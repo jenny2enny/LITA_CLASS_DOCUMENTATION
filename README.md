@@ -146,9 +146,18 @@ Grand Total	22,760,947,800
 ![image](https://github.com/user-attachments/assets/ba94edb1-d806-4f6d-bee0-e8c697f2edb5)
 
 
+**6 BOTTON 5 MARKET BY UNIT SOLD**
+
+Sum of Units Sold 	
+Boki	2
+Kwali	4
+Chibok	42
+Isiala Ngwa South	54
+Grand Total	102
+![image](https://github.com/user-attachments/assets/bed96d2d-cd1e-4bac-b760-b580823f3973)
 
 
-**6. LINE OF BUSINESS**
+**7. LINE OF BUSINESS**
 
 Sum of Revenue 	percentage revenue
 Copier Sale	7.54bn	10.33%
