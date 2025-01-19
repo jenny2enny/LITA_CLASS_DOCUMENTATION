@@ -146,6 +146,9 @@ Grand Total	22,760,947,800
 
 ![image](https://github.com/user-attachments/assets/ba94edb1-d806-4f6d-bee0-e8c697f2edb5)
 
+![image](https://github.com/user-attachments/assets/5a535ad3-1b80-4817-8081-441cf7b91ec2)
+
+
 
 **6 BOTTON 5 MARKET BY UNIT SOLD**
 
@@ -156,6 +159,9 @@ Chibok	42
 Isiala Ngwa South	54
 Grand Total	102
 ![image](https://github.com/user-attachments/assets/bed96d2d-cd1e-4bac-b760-b580823f3973)
+
+![image](https://github.com/user-attachments/assets/ed51449f-e90d-4d5a-ae35-c05ce5f3ff58)
+
 
 
 **7. LINE OF BUSINESS**
