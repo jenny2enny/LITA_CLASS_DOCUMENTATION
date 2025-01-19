@@ -169,3 +169,31 @@ Grand Total	73.03bn	100.00%
 ![image](https://github.com/user-attachments/assets/dffcdf94-fb39-4c53-8987-c60d99b835cb)
 
 
+
+
+
+**8 REPORT OF  REVENUE BY MONTH**
+
+Years (Trade Date)	Months (Trade Date)	Sum of Revenue 
+2014	 	3,922,133,760
+	Feb	4,090,898,880
+	Mar	4,157,878,920
+	Apr	4,075,070,400
+	May	4,213,543,680
+	Jun	4,044,528,600
+	Jul	3,976,032,960
+	Aug	3,958,927,800
+	Sep	3,876,659,640
+	Oct	4,133,453,760
+	Nov	4,049,343,480
+	Dec	3,966,136,320
+2014 Total		48,464,608,200
+2015	 	4,049,115,360
+	Feb	4,017,994,560
+	Mar	4,300,901,520
+	Apr	4,045,247,520
+	May	4,135,105,320
+	Jun	4,019,017,800
+2015 Total		24,567,382,080
+Grand Total		73,031,990,280
+![image](https://github.com/user-attachments/assets/c04ab6d2-c2cc-4c0c-ac50-65ea815c1368)
