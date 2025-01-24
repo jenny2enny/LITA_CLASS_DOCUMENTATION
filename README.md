@@ -207,4 +207,41 @@ Years (Trade Date)	Months (Trade Date)	Sum of Revenue
 	Jun	4,019,017,800
 2015 Total		24,567,382,080
 Grand Total		73,031,990,280
-![image](https://github.com/user-attachments/assets/c04ab6d2-c2cc-4c0c-ac50-65ea815c1368)
+![image](https://github.com/user-attachments/assets/c04ab6d2-c2cc-4c0c-ac50-65ea815c1368) 
+
+
+
+
+
+
+
+
+
+**PROJECT ON POWER BI CLASS** 
+
+**Power BI** is a powerful business analytics tool by Microsoft that enables users to visualize data share insight across their organization or embed them in an app or website. Here are some key point about Power BI.
+
+###KEY FEATUREES
+
+1. ***Data Connections** Connections to wide variety of data sources, including Excel, SQL Server, Cloud services (like Azure), and more.
+
+2. **Data Transformation**: Offers Power Quary for data cleaning and transformation before analysis.
+
+3. **Data Modelling**: Allows users create relationship between different resources, enhancing analysis  capabilities.
+
+4. **Visualization**: Provides a range of visualization options (charts, graphs, maps) to represent data effectively.
+
+5. **Dashboard**: Users can create interactive dash boards that highlight key metrics andKPIs in real-time.
+
+6. **Publising and Sharing**: Allows easy sharing of reports and dashboard within  the organization ; users can collaborate via Power BI  service.
+
+7. **Drill-Down Features** Enables users to expore data hierarchies interactive, gaining deeper insights.
+
+8. **Natural Language Quary**: Users can ask questios about their data using natural language and get answers in form of visuals.
+
+9. **Mobile Access**: Power BI has mobile accessing reports and dashboards on the go.
+
+
+
+    
+11. .
