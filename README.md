@@ -221,7 +221,7 @@ Grand Total		73,031,990,280
 
 **Power BI** is a powerful business analytics tool by Microsoft that enables users to visualize data share insight across their organization or embed them in an app or website. Here are some key point about Power BI.
 
-###KEY FEATUREES
+**KEY FEATUREES**
 
 1. ***Data Connections** Connections to wide variety of data sources, including Excel, SQL Server, Cloud services (like Azure), and more.
 
@@ -243,5 +243,28 @@ Grand Total		73,031,990,280
 
 
 
-    
-11. .
+                             **SKILL TO DEVELOP**
+
+1. **Data Importing**: Learn how to connect and import data from various sources.
+
+2. **DataCleaning and Transformation**: Master Power BI Quary for data preparation.
+
+3. **Craeting Visuals** Get familiar with  designing different visualizations and understanding when to use it.
+
+4.  **DAX (Data Analysis Expression**: Learn DAX for creating calculated columns and measures to perform complex calculations.
+
+5.  **Report Design**: Understanding best practices in UX/UI to create intuitivenandnuser-friendly reports.
+
+6.   **Sharing and Collaborating**: Know how to publish report to Power BI Service and manage user access.
+
+
+                              **USE CASES**
+
+     -**Business Reporting**: Create visually appealing reports for stakeholders.
+
+     -**Sale Analysis**: Analyze sales trends and performance metrics.
+
+     -**Financial Dashboards**: Monitor key financial indicators in real-time.
+
+     -**Creating Dashboard**: Gather and analyze customer data for better decision-making
+     
