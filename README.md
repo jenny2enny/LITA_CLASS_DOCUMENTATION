@@ -243,7 +243,7 @@ Grand Total		73,031,990,280
 
 
 
-                             **SKILL TO DEVELOP**
+**SKILLS TO DEVELOP**
 
 1. **Data Importing**: Learn how to connect and import data from various sources.
 
@@ -258,13 +258,14 @@ Grand Total		73,031,990,280
 6.   **Sharing and Collaborating**: Know how to publish report to Power BI Service and manage user access.
 
 
-                              **USE CASES**
+**USE CASES**
 
-     -**Business Reporting**: Create visually appealing reports for stakeholders.
+     
+ - **Business Reporting**: Create visually appealing reports for stakeholders.
 
-     -**Sale Analysis**: Analyze sales trends and performance metrics.
+ - **Sale Analysis**: Analyze sales trends and performance metrics.
 
-     -**Financial Dashboards**: Monitor key financial indicators in real-time.
+ - **Financial Dashboards**: Monitor key financial indicators in real-time.
 
-     -**Creating Dashboard**: Gather and analyze customer data for better decision-making
+ - **Creating Dashboard**: Gather and analyze customer data for better decision-making
      
