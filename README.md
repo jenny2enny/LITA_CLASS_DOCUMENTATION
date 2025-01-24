@@ -157,8 +157,12 @@ Boki	2
 Kwali	4
 Chibok	42
 Isiala Ngwa South	54
-Grand Total	102
+Grand Total	102 
+
+
 ![image](https://github.com/user-attachments/assets/bed96d2d-cd1e-4bac-b760-b580823f3973)
+
+
 
 ![image](https://github.com/user-attachments/assets/ed51449f-e90d-4d5a-ae35-c05ce5f3ff58)
 
