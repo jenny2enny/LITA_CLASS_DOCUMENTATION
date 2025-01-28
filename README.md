@@ -219,7 +219,7 @@ Grand Total		73,031,990,280
 
 **PROJECT ON POWER BI CLASS** 
 
-**Power BI** is a powerful business analytics tool by Microsoft that enables users to visualize data share insight across their organization or embed them in an app or website. Here are some key point about Power BI.
+**Power BI** is a powerful business analytics tool by Microsoft that enables users to visualize data share insight across their organization or embed them in an app or website. Here are some key point about Power BI. 
 
 **KEY FEATUREES**
 
@@ -281,6 +281,14 @@ HOW TO CHECK THE CONSISTENCY OF YOUR DATA
 - column distribution.
 
 When your data is clean you can go ahead with your visualization 
+
+[HR Data.xlsx](https://github.com/user-attachments/files/18572647/HR.Data.xlsx)
+
+
+**REPORT BUILDING FROM THE HR DATA**
+
+
+
 
 
 ![Screenshot (13)](https://github.com/user-attachments/assets/fcab59c1-ddf7-40d8-8ad5-a1f204068337)
