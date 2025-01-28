@@ -267,5 +267,24 @@ Grand Total		73,031,990,280
 
  - **Financial Dashboards**: Monitor key financial indicators in real-time.
 
- - **Creating Dashboard**: Gather and analyze customer data for better decision-making
-     
+ - **Creating Dashboard**: Gather and analyze customer data for better decision-making.
+
+
+**USING HR DATA FOR ILLUSTRATION**.  
+
+HR data containing attrition of an organization having different department including; Attrition, Education field, Age band, Gender, Attriton label, Department, Job role, Marital Status,Over Time,Employee number, Training, Current Employee, Hourly Rate,and so on. 
+
+HOW TO CHECK THE CONSISTENCY OF YOUR DATA
+
+- Column quality
+- column profile
+- column distribution.
+
+When your data is clean you can go ahead with your visualization 
+
+
+![Screenshot (13)](https://github.com/user-attachments/assets/fcab59c1-ddf7-40d8-8ad5-a1f204068337)
+
+
+
+
